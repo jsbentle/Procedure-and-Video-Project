@@ -34,7 +34,10 @@ Bad actors intentionally target students with topics that will grab your attenti
  - Spamming DUO notifications: _Scammers send your device back to back notifications hoping you will approve them._  
  - Sharing documents: _Phishers will share documents that require you to log-in to view them. Often this page is a way to get your account information._
 
-<img width="909" height="162" alt="Example" src="https://github.com/user-attachments/assets/b4c814aa-6433-4a7d-8f2f-30d51b5977fe" />
+<figure>
+ <img width="909" height="162" alt="Example" src="https://github.com/user-attachments/assets/b4c814aa-6433-4a7d-8f2f-30d51b5977fe" /><br/>
+ <figcaption>Figure 1: Scammers using urgent language and familiar names to get your information.</figcaption>
+</figure>
 
 
 
@@ -48,10 +51,13 @@ If you think your account security may have been compromised, it’s important t
    <img width="640" height="480" alt="Report Phishing copy (1)" src="https://github.com/user-attachments/assets/fafde23e-f08c-4f0f-b9e2-491c15befe83" />
 
 4. Check email settings: make sure your email settings have not been changed to forward emails to an external account or set auto replies
-<img width="1190" height="481" alt="Check Settings" src="https://github.com/user-attachments/assets/6e4d1263-1801-4b98-b25c-1cc3b5d132ea" />
 
-  
-5. Monitor your accounts: be on the lookout for unusual activity in your NC State account and personal accounts. 
+    <figure>
+      <img width="1190" height="481" alt="Check Settings" src="https://github.com/user-attachments/assets/6e4d1263-1801-4b98-b25c-1cc3b5d132ea" /><br/>
+      <figcaption>Figure 3: Confirm your email settings.</figcaption>
+     </figure>  
+
+6. Monitor your accounts: be on the lookout for unusual activity in your NC State account and personal accounts. 
 
 
 ## Report Phishing 
