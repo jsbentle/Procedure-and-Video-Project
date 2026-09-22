@@ -42,7 +42,11 @@ If you think your account security may have been compromised, it’s important t
 1. Reset your password: Go to [self service page](https://selfserviceidm.ncsu.edu/SSPW/pwdchangeform.htm) or call 919.515.4357 to reset your unity ID password. 
 2. Check DUO devices: Look at the trusted devices under [DUO device management](https://ncsu.service-now.com/kb_view.do?sysparm_article=KB0016403) list to ensure there are no unknown devices present.
 3. Report the email: use Google’s built in phishing report options, or forward the email to [phishing@ncsu.edu.](mailto:phishing@ncsu.edu)
+   <img width="640" height="480" alt="Report Phishing copy (1)" src="https://github.com/user-attachments/assets/fafde23e-f08c-4f0f-b9e2-491c15befe83" />
+
 4. Check email settings: make sure your email settings have not been changed to forward emails to an external account or set auto replies
+ <img width="1190" height="481" alt="Check Settings" src="https://github.com/user-attachments/assets/7dc6b0b1-b609-4451-85c9-34455a747b0d" />
+  
 5. Monitor your accounts: be on the lookout for unusual activity in your NC State account and personal accounts. 
 
 
