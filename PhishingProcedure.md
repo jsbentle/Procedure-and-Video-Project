@@ -34,6 +34,9 @@ Bad actors intentionally target students with topics that will grab your attenti
  - Spamming DUO notifications: _Scammers send your device back to back notifications hoping you will approve them._  
  - Sharing documents: _Phishers will share documents that require you to log-in to view them. Often this page is a way to get your account information._
 
+<img width="909" height="162" alt="Example" src="https://github.com/user-attachments/assets/b4c814aa-6433-4a7d-8f2f-30d51b5977fe" />
+
+
 
 ## Compromised Account
 
