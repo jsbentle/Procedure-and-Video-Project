@@ -28,11 +28,11 @@ Cyber attacks are intended to trick the user. These three steps can help you ide
 
 ## Common Phishing Scams
 
-Bad actors intentionally target students with topics that will grab your attention. Common scams include: 
- -Fake job offers: _“New work study opportunity paying $25 an hour!”_
- -Tuition or scholarship money: _“You n eed to pay tuition immediately or be expelled from class”_
- -Spamming DUO notifications: _Scammers send your device back to back notifications hoping you will approve them_
- -Sharing documents: _Phishers will share documents that require you to log-in to view them, Often this page is a way to get your account information_
+Bad actors intentionally target students with topics that will grab your attention. Common scams include:  
+ - Fake job offers: _“New work study opportunity paying $25 an hour!”_  
+ - Tuition or scholarship money: _“You n eed to pay tuition immediately or be expelled from class.”_  
+ - Spamming DUO notifications: _Scammers send your device back to back notifications hoping you will approve them._  
+ - Sharing documents: _Phishers will share documents that require you to log-in to view them. Often this page is a way to get your account information._
 
 
 ## Compromised Account
