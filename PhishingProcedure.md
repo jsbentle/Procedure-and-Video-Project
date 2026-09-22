@@ -14,17 +14,17 @@ As a student at NC State, your university account contains valuable personal inf
 
 Cyber attacks are intended to trick the user. These three steps can help you identify phishing scams. 
 
-1. Be suspicious 
-     -If it sounds too good to be true, it usually is. Emails containing extravagant opportunities or threats should be looked at closer. 
-2. Look for errors
-     -Phishing scams often contain small errors. 
-     -Examine the sender’s email address, spelling, grammar and information in the email. 
-     -Hover over links to see where they go. 
-   -Never approve a DUO Security notification you did not send.
-3. Uncertain? Ask OIT
-     -Contact the NC State Help Desk via the NC State IT Service Portal or call 919.515.HELP (4357).
-     -Send suspicious emails to phishing@ncsu.edu.
-     -Use Google’s built-in reporting feature. Open the suspicious email on a computer, click the More option (three vertical dots) at the top-right corner and select Report phishing.
+1. Be suspicious.
+   - If it sounds too good to be true, it usually is. Emails containing extravagant opportunities or threats should be looked at closer. 
+3. Look for errors.  
+   - Phishing scams often contain small errors.  
+   - Examine the sender’s email address, spelling, grammar and information in the email.  
+   - Hover over links to see where they go.   
+   - Never approve a DUO Security notification you did not send.  
+4. Uncertain? Ask OIT.  
+   - Contact the NC State Help Desk via the NC State IT Service Portal or call 919.515.4357.  
+   - Send suspicious emails to phishing@ncsu.edu.  
+   - Use Google’s built-in reporting feature. Open the suspicious email on a computer, click the More option (three vertical dots) at the top-right corner and select Report phishing.
 
 ## Common Phishing Scams
 
