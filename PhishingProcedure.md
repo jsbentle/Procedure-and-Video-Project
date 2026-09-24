@@ -6,9 +6,11 @@
 [Compromised Account](#compromised-account)  
 [Report Phishing](#report-phishing)  
 
+<!-- great minimalist organization, reader-focused instructions, and mix of read to learn and read to do information -->
+
 ## What is Phishing 
 
-As a student at NC State, your university account contains valuable personal information. Cyber attackers will pose as trusted entities via email, text or phone to try and obtain log in credentials, passwords and financial information. They can then use your account to compromise other accounts. **It’s important for all NC State users to protect their account from these scams.** 
+As a student at NC State, your university account contains valuable personal information. Cyber attackers will pose as trusted entities via email, text or phone to try and obtain log in credentials, passwords and financial information <!-- add "from you" to emphasize the personal danger? -->. They can then use your account to compromise other accounts. **It’s important for all NC State users to protect their account from these scams.** 
 
 ## Identifying Phishing 
 
@@ -20,7 +22,7 @@ Cyber attacks are intended to trick the user. These three steps can help you ide
    - Phishing scams often contain small errors.  
    - Examine the sender’s email address, spelling, grammar and information in the email.  
    - Hover over links to see where they go.   
-   - Never approve a DUO Security notification you did not send.  
+   - Never approve a DUO Security notification you did not send. <!-- this one you might elaborate a little for people who might not know what DUO is or what it means to "send" a notification via DUO --> 
 4. Uncertain? Ask OIT.  
    - Contact the NC State Help Desk via the NC State IT Service Portal or call 919.515.4357.  
    - Send suspicious emails to phishing@ncsu.edu.  
@@ -32,26 +34,28 @@ Bad actors intentionally target students with topics that will grab your attenti
  - Fake job offers: _“New work study opportunity paying $25 an hour!”_  
  - Tuition or scholarship money: _“You n eed to pay tuition immediately or be expelled from class.”_  
  - Spamming DUO notifications: _Scammers send your device back to back notifications hoping you will approve them._  
- - Sharing documents: _Phishers will share documents that require you to log-in to view them. Often this page is a way to get your account information._
+ - Sharing documents: _Phishers will share documents that require you to log-in to view them. Often this page is a way to get your account information._ <!-- Yes. This is a very common form and one that dupes a lot of people. Would be difficult to re-create visually, but nice if that was a possibility -->
 
 <figure>
  <img width="909" height="162" alt="Example" src="https://github.com/user-attachments/assets/b4c814aa-6433-4a7d-8f2f-30d51b5977fe" /><br/>
  <figcaption>Figure 1: Scammers using urgent language and familiar names to get your information.</figcaption>
 </figure>
 
-
+<!-- great verbal annotations on the image -->
 
 ## Compromised Account
 
 If you think your account security may have been compromised, it’s important to do these things ASAP:
 
 1. Reset your password: Go to [self service page](https://selfserviceidm.ncsu.edu/SSPW/pwdchangeform.htm) or call 919.515.4357 to reset your unity ID password. 
-2. Check DUO devices: Look at the trusted devices under [DUO device management](https://ncsu.service-now.com/kb_view.do?sysparm_article=KB0016403) list to ensure there are no unknown devices present.
+2. Check DUO devices: Look at the trusted devices under [DUO device management](https://ncsu.service-now.com/kb_view.do?sysparm_article=KB0016403) list to ensure there are no unknown devices present. <!-- Good to know! I was not aware of this resource -->
 3. Report the email: use Google’s built in phishing report options, or forward the email to [phishing@ncsu.edu.](mailto:phishing@ncsu.edu)    
    <figure>
     <img width="640" height="480" alt="Report Phishing copy (1)" src="https://github.com/user-attachments/assets/fafde23e-f08c-4f0f-b9e2-491c15befe83" /><br/>
     <figcaption>Figure 2: Reporting emails using Google's built-in option</figcaption>
    </figure>
+
+   <!-- Excellent use of an embedded animation! Counting this as an enhancement -->
 
 5. Check email settings: make sure your email settings have not been changed to forward emails to an external account or set auto replies
 
